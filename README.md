@@ -24,7 +24,7 @@ Use the directive as provided below,
         
 ###Example
 
-<code>
+<pre>
         &lt;button snapshot [eleRef]="'table'"&gt; Take snap &lt;/button&gt; <br />
         &lt;table id="table&gt;
           &lt;tr&gt;
@@ -44,4 +44,4 @@ Use the directive as provided below,
             &lt;td&gt;222000&lt;/td&gt;
           &lt;/tr&gt;
         &lt;/table&gt;
- </code>
+ </pre>
