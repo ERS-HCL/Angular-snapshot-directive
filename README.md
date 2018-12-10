@@ -1,6 +1,6 @@
 # Angular snapshot directive
 
-Whenever it is necessery to capture the screenshot of a web page or an HTML element or an Angular component then this directive provides the feature to capture the screenshot.
+Whenever it is necessery to capture the screenshot of a web page or a HTML element or an Angular component then this directive provides the feature to capture the screenshot.
 
 ## How it works ?
 
