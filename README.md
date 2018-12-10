@@ -24,24 +24,24 @@ Use the directive as provided below,
         
 ###Example
 
-<pre>
-        &lt;button snapshot [eleRef]="'table'"&gt; Take snap &lt;/button&gt; <br />
-        &lt;table id="table&gt;
-          &lt;tr&gt;
-            &lt;th>Company&lt;/th&gt;
-          &lt;th&gt;Employee&lt;/th&gt;
-          &lt;/tr&gt;
-          &lt;tr id="row-1"&gt;
-            &lt;td&gt;HCL&lt;/td&gt;
-            &lt;td&gt;122000&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;Accenture&lt;/td&gt;
-            &lt;td&gt;45226&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;TCS&lt;/td&gt;
-            &lt;td&gt;222000&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/table&gt;
- </pre>
+
+        <button snapshot [eleRef]="'table'"> Take snap </button>
+        
+        <table id="table">
+          <tr>
+            <th>Company</th>
+            <th>Employee</th>
+          </tr>
+          <tr id="row-1">
+            <td>HCL</td>
+            <td>122000</td>
+          </tr>
+          <tr>
+            <td>Accenture</td>
+            <td>452266</td>
+          </tr>
+          <tr>
+            <td>TCS</td>
+            <td>222000</td>
+          </tr>
+        </table>
