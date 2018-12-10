@@ -32,7 +32,7 @@ Use the directive as provided below,
             <th>Company</th>
             <th>Employee</th>
           </tr>
-          <tr id="row-1">
+          <tr>
             <td>HCL</td>
             <td>122000</td>
           </tr>
