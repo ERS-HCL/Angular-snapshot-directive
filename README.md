@@ -56,7 +56,7 @@ Even you can capture the screenshot of an Angular component in same procedure as
 
 Following are the attributes of the `snapshot` directive,
 
-<b>imageFormat : <b> `imageFormat` accepts the format of the screenshot e.g `application/png` or `application/jpeg` etc. The default value is `application/png`.
+<b>imageFormat : </b> `imageFormat` accepts the format of the screenshot e.g `application/png` or `application/jpeg` etc. The default value is `application/png`.
         
 <b>fileName : </b> by using `fileName` you can provide the name of the screenshot. The default value is `download`.
 
