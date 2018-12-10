@@ -25,8 +25,7 @@ Use the directive as provided below,
 ###Example
 
 <code>
-        &lt;button snapshot [eleRef]="'table'"&gt; Take snap &lt;/button&gt;
-        
+        &lt;button snapshot [eleRef]="'table'"&gt; Take snap &lt;/button&gt; <br />
         &lt;table id="table&gt;
           &lt;tr&gt;
             &lt;th>Company&lt;/th&gt;
