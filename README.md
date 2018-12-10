@@ -61,3 +61,13 @@ Following are the attributes of the `snapshot` directive,
 <b>fileName : </b> by using `fileName` you can provide the name of the screenshot. The default value is `download`.
 
 <b>eleRef : </b> `eleRef` accepts the `id` reference of the the element ot component, which you want to capture.
+
+## Demo
+
+Find the below link for the demo.
+
+https://angular-snapshot-directive-xt4djr.stackblitz.io/
+
+## Author
+
+learning.bikash@gmail.com
